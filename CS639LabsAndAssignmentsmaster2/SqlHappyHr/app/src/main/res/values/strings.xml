@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Our Happy hours</string>
+
+ <string name="some_hint">
+  Filter by Address, StreetName, Zipcode&#8230;
+ </string>
+</resources>
+ 
